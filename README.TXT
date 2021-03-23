@@ -18,5 +18,5 @@ HOW TO START THIS PROJECT:
     
     Right-click over TaxiCoTest and select "Test Fixture to Object Bench"
     to automatically create some sample objects.
-AUTHORS: David J. Barnes
-USER INSTRUCTIONS:
+AUTHORS: David J. Barnes, Nadia Monteiro
+
